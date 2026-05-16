@@ -1,0 +1,12 @@
+Act as an SEO content writer.
+
+Write an SEO-optimized blog for a cafe in Vijayawada.
+
+Include:
+1. Title
+2. Introduction
+3. Benefits of visiting the cafe
+4. Popular menu items
+5. Conclusion
+
+Tone: Friendly and informative
